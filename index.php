@@ -1,5 +1,5 @@
 <?php include_once $_SERVER['DOCUMENT_ROOT'] . '/core/core.php'; ?>
-
+sjsjjss
 <!DOCTYPE html>
 
 <!-- Danny is Crazy -->
