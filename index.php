@@ -11,7 +11,7 @@ sjsjjss
     <body>
         <h1>donders mooi onnie</h1>
 
-        <p>I approve.</p>
+        <p>sssss I approve.</p>
 
         <?php 
             $paramsExists = validate($_GET, ['danny', 'maakt', 'lijpe', 'meuk']);
